@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug (Isar)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "args": ["--dart-define=NOTE_STORAGE_TYPE=isar"]
+    },
+    {
+      "name": "Debug (Shared)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "args": ["--dart-define=NOTE_STORAGE_TYPE=shared"]
+    }
+  ]
+}

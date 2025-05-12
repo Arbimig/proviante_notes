@@ -81,5 +81,5 @@
 
 | Экран списка заметок | Экран поиска | Экран создания/редактирования заметки |
 |----------------------|--------------|---------------------------------------|
-| ![List Screen](assets/light_1.png) | ![Edit Screen](assets/light_2.png) | ![Edit Screen](assets/light_3.png) |
-| ![List Screen](assets/dark_1.png) | ![Edit Screen](assets/dark_2.png) | ![Edit Screen](assets/dark_3.png) |
+| ![List Screen](assets/light_1.png) | ![Edit Screen](assets/light_3.png) | ![Edit Screen](assets/light_2.png) |
+| ![List Screen](assets/dark_1.png) | ![Edit Screen](assets/dark_3.png) | ![Edit Screen](assets/dark_2.png) |

@@ -77,30 +77,9 @@
 
 
 
-
-
 ### Скриншоты
 
-Экран списка заметок:
-
-![List Screen](assets/light_1.png)
-
-Экран поиска:
-
-![Edit Screen](assets/light_2.png)
-
-Экран создания/редактирования заметки:
-
-![Edit Screen](assets/light_3.png)
-
-Экран списка заметок dark:
-
-![List Screen](assets/dark_1.png)
-
-Экран поиска dark:
-
-![Edit Screen](assets/dark_2.png)
-
-Экран создания/редактирования заметки dark:
-
-![Edit Screen](assets/dark_3.png)
+| Экран списка заметок | Экран поиска | Экран создания/редактирования заметки |
+|----------------------|--------------|---------------------------------------|
+| ![List Screen](assets/light_1.png) | ![Edit Screen](assets/light_2.png) | ![Edit Screen](assets/light_3.png) |
+| ![List Screen](assets/dark_1.png) | ![Edit Screen](assets/dark_2.png) | ![Edit Screen](assets/dark_3.png) |
